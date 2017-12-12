@@ -1,0 +1,14 @@
+.ng-invalid.ng-dirty {
+    border-color: #FA787E;
+}
+
+.ng-valid.ng-dirty {
+    border-color: #78FA89;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+.minheigth {
+    min-height: 300px;
+}

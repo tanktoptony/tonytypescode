@@ -1,0 +1,54 @@
+[{
+    "name": "Nike Air Max",
+    "price": 59.95,
+    "description": "Straight ballin', son",
+    "canPurchase": true,
+    "images": [{
+        "full": "images/airmax.png"
+    }],
+    "reviews": [{
+        "stars": "3",
+        "body": "Hello, this sucks!",
+        "author": "joel@sexy.com"
+    }]  
+}, {
+    "name": "New Balance",
+    "price": 3.5,
+    "description": "That's all they're worth...",
+    "canPurchase": true,
+    "images": [{
+        "full": "images/newbalance.jpg"
+    }]
+}, {
+    "name": "Adidas Sambas",
+    "price": 55,
+    "description": "Futbol ready",
+    "canPurchase": true,
+    "images": [{
+        "full": "images/adidassambas.jpg"
+    }]
+}, {
+    "name": "Nike Air Jordans",
+    "price": 150,
+    "description": "Fly like an eagle from the free-throw line!",
+    "canPurchase": true,
+    "images": [{
+        "full": "images/airjordan.jpg"
+    }]
+}, {
+    "name": "Brooks Joggers",
+    "price": 12,
+    "description": "And I ran... I ran so far away...",
+    "canPurchase": true,
+    "images": [{
+        "full": "images/brooks.jpg"
+    }]
+}, {
+    "name": "Vans Hi-Tops",
+    "price": 40,
+    "description": "Made to skate!",
+    "canPurchase": true,
+    "images": [{
+        "full": "images/vans.jpg"
+    }]
+}]
